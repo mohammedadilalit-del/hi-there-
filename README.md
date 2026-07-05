@@ -1,5 +1,5 @@
-# hi-there-
-# 👋 Hi, I'm Mohammed Adil Ali
+# hi 👋
+#  I'm Mohammed Adil Ali
 
 I'm a Data Analyst with hands-on experience in SQL, Python, Power BI, and Microsoft Excel. I specialize in data cleaning, exploratory data analysis, dashboard development, KPI reporting, ETL processes, and business intelligence.
 
