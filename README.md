@@ -1,14 +1,16 @@
-# hi 👋
-#  I'm Mohammed Adil Ali
+# 🗺 Mohammed Adil Ali portfolio 
 
-I'm a Data Analyst with hands-on experience in SQL, Python, Power BI, and Microsoft Excel. I specialize in data cleaning, exploratory data analysis, dashboard development, KPI reporting, ETL processes, and business intelligence.
+Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
-My portfolio includes real-world projects focused on analyzing data, uncovering trends, building interactive dashboards, and supporting data-driven business decisions. I am continuously expanding my skills and applying analytics techniques to solve practical business challenges.
+## 📚 Table of Contents
+- [Data Analyst ](#data- Analyst )
+- [SQL](#sql)
+- [Python](#python)
+- [Power bi](#tableau)
+- [Katie's Guides](#katies-guides)
 
-### Technical Skills
+# Data Engineering
 
-* SQL (SQL Server, MySQL)
-* Python (Pandas, NumPy, Matplotlib)
-* Microsoft Excel (Advanced Excel, Pivot Tables, Power Query)
-* Power BI
-**Always learning. Always building. Always improving through data.**
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+| 🛍️[Customer Shopping Behaviour ](https://github.com/mohammedadilalit-del/Customer_Shoping_Behaviour/tree/main)| August 2026 | Python, Pandas, Jupyter Notebook, SQL Server | Performed end-to-end customer shopping behavior analysis by cleaning and exploring data in Python and answering business questions using SQL. Applied CTEs and Window Functions to identify purchasing patterns, top-selling products, customer preferences, and category-wise insights. | |
