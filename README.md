@@ -3,7 +3,7 @@
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
 ## 📚 Table of Contents
-- [Data Analyst ](#datAnalyst )
+- [Data Analyst ](#dataAnalyst )
 - [SQL](#sql)
 - [Python](#python)
 - [Power bi](#tableau)
