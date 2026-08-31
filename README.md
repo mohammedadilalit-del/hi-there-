@@ -20,6 +20,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |--------------|-----------------|-------|---------------------|
 | [Sales Overview Dashboard](https://github.com/mohammedadilalit-del/sales-overview-dashboard-) | Aug 2026 | Power BI, DAX, Power Query | Built an interactive Sales Overview Dashboard to analyze sales, profit, and quantity using KPI cards, Year-over-Year (YoY) analysis, and dynamic visualizations. Created reports to identify sales trends, compare current vs. previous year performance, and highlight top-performing products and regions for data-driven decision-making. |
    # excel
+   |---|---|---|---|
 | Project Link | Completion Date | Tools | Project Description |
 | GitHub Link | August 2026 | Excel, DAX, Power Query | Built an interactive sales dashboard to analyze market performance, targets, and customer growth. |
 
