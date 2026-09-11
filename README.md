@@ -22,7 +22,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
    # excel
 | Project Link | Completion Date | Tools | Project Description |
 |---|---|---|---|
-| GitHub Link | August 2026 | Excel, DAX, Power Query | Built an interactive sales dashboard to analyze market performance, targets, and customer growth. |
+|  | August 2026 | Excel, DAX, Power Query | Built an interactive sales dashboard to analyze market performance, targets, and customer growth. |
 
 
   
